@@ -4,7 +4,7 @@
   company: 烟台三航雷达研究所
   details: "项目：ADS-B网络接收机.
   <br> <br>
-  任务：使用MSP430进行WIFI部分开发，将获得数据接入互联网."
+  任务：使用MSP430进行WIFI部分开发，将接收数据接入网络."
 - experience:
   role: 实习生
   time: 2018 - 至今
@@ -14,13 +14,14 @@
   任务：基于开源无线电技术，构建面向特种卫星通信系统的信号接收、分析和测试平台。依托平台，进
   行基于特种卫星通信系统的协议逆向，并对逆向协议的准确性进行验证。结合协议逆向，研究通信链路
   的利用方式，实现非协议数据的植入。
+  <br> <br>
   收获：接触并了解开源软件无线电平台GNURadio，并接触HackRF,USRP N210等软件无线电平台。学习到
   信息安全相关知识"
-- experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+- #experience:
+  #role: UI Developer
+  #time: 2012 - 2014
+  #company: Amazon, London
+  #details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
+  #elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  #magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #pellentesque eu, pretium quis, sem."

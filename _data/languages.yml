@@ -1,9 +1,9 @@
 - language:
-  idiom: English
+  idiom: 中文
   level: Native
 - language:
-  idiom: French
+  idiom: English
   level: Professional
-- language:
-  idiom: Spanish
-  level: Professional
+- #language:
+  #idiom: Spanish
+  #level: Professional
