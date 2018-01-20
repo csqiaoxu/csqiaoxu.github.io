@@ -1,5 +1,5 @@
-- intro:
-  description: "项目经历."
+# - intro:
+  # description: "<b>项目经历</b>."
 
 - project:
   title: 基于FPGA与Labview的数字频率计设计
