@@ -16,12 +16,12 @@ tagline: 本科在读
 pic: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: '<b>个人信条</b>：努力，乐观，向上！不忘初心.<br> 
 <b>所获荣誉</b>：<br>
- <ul> 全国大学生电子设计大赛省一等奖</ul> 
- <ul> 全国大学生数学竞赛省三等奖</ul> 
- <ul> 计算机等级认证嵌入式三级证书</ul> 
+ <li> <ul> 全国大学生电子设计大赛省一等奖</ul> 
+ <li> <ul> 全国大学生数学竞赛省三等奖</ul> 
+ <li> <ul> 计算机等级认证嵌入式三级证书</ul> 
 <b>其它</b>：<br>
- <ul>   优秀共青团员</ul>
- <ul>   优秀学生奖学金</ul>
+ <li> <ul>   优秀共青团员</ul>
+ <li> <ul>   优秀学生奖学金</ul>
 
 '
 
