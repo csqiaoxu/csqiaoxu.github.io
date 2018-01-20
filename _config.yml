@@ -14,10 +14,7 @@ baseurl: 'csqiaoxu.github.io' #change it according to your repository name
 name: Qiao Xu
 tagline: 本科在读
 pic: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: '个人信条：努力，乐观，向上！不忘初心.'
 
 #sidebar links
 email: 201457506105@ytu.edu.cn
@@ -25,7 +22,7 @@ phone: 15963511252
 website: blog.csdn.net/qq_27513221 #do not add http://
 linkedin: alandoe
 github: GerogeWilde
-twitter: '@webjeda'
+WeChat: 'qiaoxu1996628'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker

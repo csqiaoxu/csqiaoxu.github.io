@@ -2,22 +2,18 @@
   description: "项目经历."
 
 - project:
-  title: Velocity
+  title: 基于FPGA与Labview的数字频率计设计
   link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "通过FPGA采集输入信号频率，使用Nios ii内核将采集数据通过串口发送到Labview上位机."
 - project:
-  title: DevStudio
+  title: 远程幅频特性曲线测试装置
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "基于AD9854的信号发生器，使用FPGA进行频率测量将数据通过局域网发送到QT上位机进行显示."
 - project:
-  title: Tempo
+  title: 基于OpenStack的私有云搭建
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "使用开源的OpenStack工具在本地主机进行私有云搭建，并成功共享."
 - project:
-  title: Atom
+  title: 基于USPR N210的软件无线电实践
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "实现对于ADS-B信号的接收和定位，以及卫星信号的侦听"
