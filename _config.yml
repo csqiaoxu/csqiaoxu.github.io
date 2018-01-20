@@ -14,7 +14,11 @@ baseurl: 'csqiaoxu.github.io' #change it according to your repository name
 name: Qiao Xu
 tagline: 本科在读
 pic: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '个人信条：努力，乐观，向上！不忘初心.'
+summary: '个人信条：努力，乐观，向上！不忘初心.<br> 
+所获荣誉：
+    全国大学生电子设计大赛省一等奖<br>
+    全国大学生数学竞赛省三等奖<br>
+'
 
 #sidebar links
 email: 201457506105@ytu.edu.cn
